@@ -1,0 +1,22 @@
+[
+  {
+    "username": "pedro0125",
+    "content": "Fourth Tweet",
+    "created_at": 1598842473
+  },
+  {
+    "username": "pedro0125",
+    "content": "Third tweet",
+    "created_at": "1598803200"
+  },
+  {
+    "username": "pedro0125",
+    "content": "Second tweet",
+    "created_at": "1598799600"
+  },
+  {
+    "username": "pedro0125",
+    "content": "First tweet",
+    "created_at": "1598796000"
+  }
+]
